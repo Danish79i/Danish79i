@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danish Ali mir</h1>
-<h3 align="center">A passionate ML/AL students from pakistan.</h3>
+<h3 align="center">A passionate ML/AI students from pakistan.</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
